@@ -23,5 +23,5 @@ The Great RGB Challenge - A Game
 * Repo owner: StackIT868
 
 ### LIVE DEMO ###
-http://bit.ly/2nnDilu
+[Demo here]("https://stackit868.github.io/rgb-challenge/")
 
